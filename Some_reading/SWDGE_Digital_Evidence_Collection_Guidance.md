@@ -22,5 +22,3 @@ prevent cross-contamination.
 
 References:
 - Scientific Working Group on Digital Evidence. (2025). Best practices for digital evidence collection (Version 2.0, Document No. 18-F-002). https://www.swgde.org/wp-content/uploads/2025/07/2025-06-30-Best-Practices-for-Digital-Evidence-Collection-18-F-002-2.0.pdf
-
-- Scientific Working Group on Digital Evidence. (2025). Best practices for mobile device evidence collection, preservation, handling, and acquisition (Version 2.0, Document No. 18-F-003). https://www.swgde.org/wp-content/uploads/2025/03/2025-02-28-Best-Practices-for-Mobile-Device-Evidence-Collection-Preservation-Handling-and-Acquisition-18-F-003-2.0.pdf
