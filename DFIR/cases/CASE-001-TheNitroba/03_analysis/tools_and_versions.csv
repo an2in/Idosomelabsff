@@ -1,1 +1,2 @@
 tool,version,platform,purpose,validation_or_notes
+Wireshark,4.6.6,Linux,"Network packet capture analysis — Follow TCP Stream; HTTP payload inspection; source IP traffic filtering","GUI-based analysis"

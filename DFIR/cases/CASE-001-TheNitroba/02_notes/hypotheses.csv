@@ -1,1 +1,2 @@
 hypothesis_id,hypothesis,supporting_evidence,contradicting_evidence,status,confidence,next_test
+H-01,"There should be a TCP handshake showing the connection to the website willselfdestruct.com from the culprit machine","TCP stream identified in nitroba.pcap originating from the culprit IP connecting to willselfdestruct.com; HTTP payload content matches the harassing message received by the victim.",,Supported,High,

@@ -1,4 +1,3 @@
 # Scripts
 
-Document each helper's purpose, inputs, outputs, dependencies, example command
-and known limitations. Never embed evidence, credentials or malware.
+No scripts were produced for this investigation. All analysis was performed interactively via the Wireshark 4.6.6 GUI (Follow TCP Stream, display filters).

@@ -1,1 +1,5 @@
 type,value,context,first_seen,last_seen,confidence,source
+IP Address,192.168.15.4,Source IP of all suspicious traffic; assigned to dorm room shared by three Nitroba students. TCP streams to willselfdestruct.com and Gmail originated from this IP.,2008-07-21,,High,E-001 nitroba.pcap
+Domain,willselfdestruct.com,Ephemeral messaging service used to deliver harassing message to victim Lily Tuckrige on 2008-07-21. TCP stream payload matches message received by victim.,2008-07-21,,High,E-001 nitroba.pcap
+Email Account,jcoachj@gmail.com,Google account authenticated during the network session originating from 140.247.62.34. Identified via Gmail HTTP response string 'Loading jcoachj@gmail.com…'. Attributed to Chemistry 109 student Johnny Coach.,2008-07-21,,High,E-001 nitroba.pcap
+Email Address,lilytuckrige@yahoo.com,Target / victim email address. Recipient of the harassing messages reported to Nitroba IT.,2008-07-21,,High,Case complaint; email header screenshots

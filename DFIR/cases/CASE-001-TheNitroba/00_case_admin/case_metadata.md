@@ -8,13 +8,13 @@
 | Requester / source |Self-Directed Study / Evidence sourced from the Digital Corpora Nitroba University Scenario (2008). |
 | Date received |19/07/2026 |
 | Examination start | 19/07/2026|
-| Examination end | |
+| Examination end | 20/07/2026 |
 | Reporting time zone | UTC+7 |
 | Authority | Academic training exercise. Authorized under individual professional development using the open-source Digital Corpora educational license. |
-| Status | Investigating |
+| Status | Closed |
 | Original evidence location | The Internet |
 | Working-copy location | DFIR/cases/CASE-001-TheNitroba/01_evidence/working/nitroba.pcap |
-| Report version | 0.1 |
+| Report version | 1.0 |
 
 ## Purpose
 
