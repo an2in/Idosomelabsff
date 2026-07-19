@@ -11,7 +11,7 @@
 | Examination end |  |
 | Reporting time zone | UTC + 7 |
 | Authority | Public training dataset / authorised lab |
-| Status | Investigating |
+| Status | Closed |
 | Original evidence location |  |
 | Working-copy location |  |
 | Report version | 0.1 |
