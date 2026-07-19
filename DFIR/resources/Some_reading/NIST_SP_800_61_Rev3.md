@@ -8,7 +8,7 @@ The lifecycle of Incident Response:
 - Containment, Eradication and Recovery -> Respond, Recover
 - Post-incident Activity -> Govern, Indentity, Protect
 
-![IR Lifecycle](/Some_reading/img/IR_CSF2.png)
+![IR Lifecycle](img/IR_CSF2.png)
 
 Forensic investigation exists inside a larger incident-response and cybersecurity-risk-management process.
 
