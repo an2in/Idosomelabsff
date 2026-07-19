@@ -1,0 +1,115 @@
+# ============================================================
+# Raw evidence and working copies
+# ============================================================
+
+**/01_evidence/original/**
+**/01_evidence/working/**
+**/evidence_original/**
+**/evidence_working/**
+**/tool_outputs/**
+**/temporary/**
+
+# Preserve empty directory structure
+!**/01_evidence/original/.gitkeep
+!**/01_evidence/working/.gitkeep
+!**/tool_outputs/.gitkeep
+
+# ============================================================
+# Common forensic evidence formats
+# ============================================================
+
+*.E01
+*.e01
+*.Ex01
+*.ex01
+*.dd
+*.raw
+*.img
+*.001
+*.aff
+*.aff4
+
+*.mem
+*.vmem
+*.dmp
+*.lime
+
+*.pcap
+*.pcapng
+*.cap
+
+*.evtx
+*.evt
+
+*.vmdk
+*.vhd
+*.vhdx
+*.qcow
+*.qcow2
+*.iso
+
+# ============================================================
+# Malware and executable material
+# ============================================================
+
+*.exe
+*.dll
+*.sys
+*.scr
+*.com
+*.msi
+*.ps1
+*.bat
+*.cmd
+*.jar
+*.apk
+*.dex
+
+# Malware archives and encrypted sample packages
+*.7z
+*.rar
+*.zip
+*.tar
+*.gz
+*.xz
+
+# Remove exceptions manually if a safe script/archive is intentional
+
+# ============================================================
+# Sensitive data
+# ============================================================
+
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+*.p12
+
+*credentials*
+*password*
+*secrets*
+*tokens*
+*cookies*
+
+# ============================================================
+# Tool and environment files
+# ============================================================
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Temporary and generated files
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
