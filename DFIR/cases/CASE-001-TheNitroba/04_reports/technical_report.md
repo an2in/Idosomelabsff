@@ -6,11 +6,11 @@
 |---|---|
 | Case ID | CASE-001 |
 | Case title | 2008 Nitroba University Harassment |
-| Report version | 0.1 |
+| Report version | 1.0 |
 | Investigator | an2in |
 | Report date | 2026-07-20 |
 | Reporting time zone | UTC+7 |
-| Status | Draft |
+| Status | Closed |
 
 ## 2. Purpose and investigation questions
 
@@ -35,7 +35,7 @@ This investigation is an academic training exercise conducted by investigator an
 |---|---|---|---|---|
 | E-001 | nitroba.pcap | 56,180,821 | `2b77a9eaefc1d6af163d1ba793c96dbccacb04e6befdf1a0b01f8c67553ec2fb` | 19/07/2026 |
 
-Evidence was received from the Nitroba IT Department. Analysis was performed on a verified working copy located at `DFIR/cases/CASE-001-TheNitroba/01_evidence/working/nitroba.pcap`. The original file was not modified.
+Within the scenario, the capture was collected by the fictional Nitroba IT Department's Ethernet tap. For this training exercise, the file was acquired from the Digital Corpora public repository (digitalcorpora.org). Analysis was performed on a verified working copy located at `DFIR/cases/CASE-001-TheNitroba/01_evidence/working/nitroba.pcap`. The original file was not modified.
 
 ## 5. Evidence handling and integrity
 
@@ -112,13 +112,13 @@ Platform: Linux (Arch Linux, kernel 7.0.10-arch1-1, 64-bit)
 
 ## 12. Conclusions
 
-The network evidence contained in `nitroba.pcap` establishes a clear chain of attribution:
+The network evidence contained in `nitroba.pcap` establishes the following chain:
 
 1. A device on the dorm room network (IP `192.168.15.4` internally) transmitted a message to `willselfdestruct.com` whose content matches the harassing email received by the victim **(F-001)**.
 2. That same device was simultaneously authenticated to Gmail as `jcoachj@gmail.com` **(F-002)**.
-3. The Gmail account `jcoachj@gmail.com` belongs to Chemistry 109 student **Johnny Coach** **(F-003)**.
+3. The supplied Chemistry 109 course roster associates the account `jcoachj@gmail.com` with the enrolled student **Johnny Coach** **(F-003)**.
 
-**The investigator concludes with high confidence that Johnny Coach sent the harassing email to Lily Tuckrige on 21 July 2008.**
+**The activity is strongly associated with the authenticated account `jcoachj@gmail.com`, which the supplied course roster associates with Johnny Coach. The available network evidence does not independently establish who physically operated the device.**
 
 ## 13. Limitations
 

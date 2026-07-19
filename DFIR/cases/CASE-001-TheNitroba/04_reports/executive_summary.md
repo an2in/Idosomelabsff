@@ -24,7 +24,7 @@ Analysis was limited to the network traffic captured from the dorm room Ethernet
 
 ## Impact or investigative significance
 
-Network-level evidence provides a strong chain of attribution from the harassing message delivery (willselfdestruct.com TCP stream), through the authenticated Gmail identity (`jcoachj@gmail.com`), to the enrolled student Johnny Coach. All three evidentiary links are independently supported by the packet capture. The primary remaining caveat is that the dorm room's open Wi-Fi network means device-level attribution (i.e., confirming the specific machine used) would require endpoint forensics not currently in scope.
+Network-level evidence strongly associates the harassing message delivery (willselfdestruct.com TCP stream) with the authenticated Gmail account `jcoachj@gmail.com`, which the supplied course roster links to enrolled student Johnny Coach. The available network evidence does not independently establish who physically operated the device. Device-level attribution would require endpoint forensics not currently in scope.
 
 ## Immediate actions
 
