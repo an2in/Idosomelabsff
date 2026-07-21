@@ -1,4 +1,4 @@
-# Case metadata (completed)
+# Case metadata
 
 | Field | Value |
 |---|---|

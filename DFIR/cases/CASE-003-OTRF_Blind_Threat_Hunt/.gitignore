@@ -1,0 +1,12 @@
+# Case-level gitignore to prevent committing raw evidence
+01_evidence/original/**
+01_evidence/working/**
+!01_evidence/original/.gitkeep
+!01_evidence/working/.gitkeep
+
+*.zip
+*.pcap
+*.pcapng
+*.cap
+*.log
+*.json
