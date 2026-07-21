@@ -1,0 +1,3 @@
+tool,version,platform,purpose,validation_or_notes
+FTK Imager,Unknown,Windows,"Investigate files and extract evidence",""
+GoldFynch PST Viewer,Web,Web,"View and analyze .pst files","https://goldfynch.com/pst-viewer/"

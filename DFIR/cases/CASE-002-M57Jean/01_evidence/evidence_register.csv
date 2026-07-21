@@ -1,0 +1,3 @@
+evidence_id,description,source,original_filename,size_bytes,sha256,date_received,received_from,storage_location,working_copy,status,notes
+E-001,Jean's disk image #1,authorised public source,nps-2008-jean.E01,1572860321,df3a995c7a594e0ba6d95b9aae735a444313fae435a87e7536f9dad3db2769ce,2026-07-20,Digital Corpora,DFIR/cases/CASE-002-M57Jean/01_evidence,DFIR/cases/CASE-002-M57Jean/02_working,,
+E-002,Jean's disk image #2,authorised public source,nps-2008-jean.E02,1466890611,07f1f78c857d5b5809ac7a68e1467d36872fa74f047ee2c799d37b18aad4f5aa,2026-07-20,Digital Corpora,DFIR/cases/CASE-002-M57Jean/01_evidence,DFIR/cases/CASE-002-M57Jean/02_working,,

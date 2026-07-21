@@ -1,0 +1,3 @@
+hypothesis_id,hypothesis,supporting_evidence,contradicting_evidence,status,confidence,next_test
+H-01,"Data was exfiltrated by an external party via social engineering","Emails #214 showing impersonation by tuckgorge@gmail.com","","Confirmed","High",""
+H-02,"Data was exfiltrated by an internal malicious actor","","Exfiltrated to external address tuckgorge@gmail.com","Rejected","High",""

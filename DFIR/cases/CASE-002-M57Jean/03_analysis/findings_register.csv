@@ -1,0 +1,2 @@
+finding_id,title,finding,supporting_evidence,confidence,impact_or_relevance,alternative_explanation,report_section
+F-01,"Data Exfiltration through Social Engineering","Sensitive information was successfully exfiltrated by an external party impersonating Alison.","Emails #207, #210, #214, #215","High","Sensitive data disclosed to unauthorized third party","None plausible","8. Findings"

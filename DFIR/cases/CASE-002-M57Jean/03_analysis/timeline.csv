@@ -1,0 +1,6 @@
+event_id,timestamp_normalized,timezone,timestamp_original,source_artifact,actor_or_account,host_or_device,event,interpretation,confidence,evidence_reference
+E-01,,,,outlook.pst,Alison,,Alison requests sensitive information from Jean,Initial request,High,Email #207
+E-02,,,,outlook.pst,Jean,,Jean responds to Alison's request; Alison expresses confusion,Communication mix-up,High,Email #210
+E-03,,,,outlook.pst,tuckgorge@gmail.com,,tuckgorge@gmail.com impersonating Alison urges Jean to send info,Social engineering attempt,High,Email #214
+E-04,,,,outlook.pst,Jean,,Jean sends the sensitive info to tuckgorge@gmail.com,Data exfiltration successful,High,Email #215
+E-05,,,,outlook.pst,Coworkers,,Coworkers email Jean expressing confusion ("What's going on"),Realization of anomaly,Medium,Subsequent emails

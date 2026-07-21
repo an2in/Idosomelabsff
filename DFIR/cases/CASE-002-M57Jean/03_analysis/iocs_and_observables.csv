@@ -1,0 +1,2 @@
+type,value,context,first_seen,last_seen,confidence,source
+Email Address,tuckgorge@gmail.com,"Attacker email address impersonating Alison","Email #214","Email #214","High","outlook.pst"
