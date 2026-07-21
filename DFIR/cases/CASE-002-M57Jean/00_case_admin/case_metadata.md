@@ -12,8 +12,8 @@
 | Reporting time zone | UTC + 7 |
 | Authority | Public training dataset / authorised lab |
 | Status | Investigating |
-| Original evidence location | DFIR/cases/CASE-002-M57Jean/01_evidence |
-| Working-copy location | DFIR/cases/CASE-002-M57Jean/02_working |
+| Original evidence location | DFIR/cases/CASE-002-M57Jean/01_evidence/original |
+| Working-copy location | DFIR/cases/CASE-002-M57Jean/01_evidence/working |
 | Report version | 0.1 |
 
 ---
