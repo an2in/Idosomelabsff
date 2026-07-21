@@ -9,9 +9,9 @@ Security monitoring detected suspicious script execution and unusual outbound ne
 - Status: Active (Blind Investigation)
 - Start date: 2026-07-21
 - Report date: Pending
-- Investigator: Analyst
+- Investigator: an2in
 - Case type: Blind Threat Hunt / DFIR Investigation
-- Reporting time zone: UTC
+- Reporting time zone: UTC +7 
 
 ## Evidence source
 
