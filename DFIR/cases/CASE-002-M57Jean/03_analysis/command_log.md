@@ -15,7 +15,7 @@ Used FTK Imager UI
 - Working-copy path: Disk images
 
 **Output**
-- Saved to: `01_evidence/working/outlook.pst`
+- Saved to: `01_evidence/working/outlook.pst` (Original path: `[root]\Documents and Settings\Jean\Local Settings\Application Data\Microsoft\Outlook\outlook.pst`)
 - Relevant excerpt: N/A
 
 **Interpretation**

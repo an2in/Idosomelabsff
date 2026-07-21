@@ -15,7 +15,7 @@ The scope is limited to the provided disk images (`nps-2008-jean.E01`, `nps-2008
 ## 4. Evidence received
 - `nps-2008-jean.E01` (Disk image #1)
 - `nps-2008-jean.E02` (Disk image #2)
-- Extracted file: `outlook.pst` from Jean's system.
+- Extracted file: `outlook.pst` from Jean's system (Original path: `[root]\Documents and Settings\Jean\Local Settings\Application Data\Microsoft\Outlook\outlook.pst`).
 
 ## 5. Evidence handling and integrity
 The original images were handled according to standard digital forensics practices. Working copies of the evidence, including the extracted `outlook.pst`, were analyzed to preserve the original evidence.

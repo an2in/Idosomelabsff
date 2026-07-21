@@ -4,7 +4,7 @@
 - **Objective:** Locate and extract email communication.
 - **Evidence examined:** Disk images (nps-2008-jean.E01, nps-2008-jean.E02)
 - **Tool / command:** FTK Imager
-- **Result:** Found and extracted outlook.pst
+- **Result:** Found and extracted outlook.pst from `[root]\Documents and Settings\Jean\Local Settings\Application Data\Microsoft\Outlook\outlook.pst`
 - **Interpretation:** PST file contains user's emails.
 - **Confidence:** High
 - **Next action:** Analyze outlook.pst
