@@ -11,7 +11,7 @@ Security monitoring detected suspicious script execution and unusual outbound ne
 - Report date: Pending
 - Investigator: an2in
 - Case type: Blind Threat Hunt / DFIR Investigation
-- Reporting time zone: UTC +7 
+- Reporting time zone: UTC + 7 
 
 ## Evidence source
 
